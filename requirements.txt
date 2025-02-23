@@ -1,0 +1,9 @@
+streamlit
+requests
+speechrecognition
+pyttsx3
+textblob
+flask
+pinecone-client
+sentence-transformers
+sqlite3
