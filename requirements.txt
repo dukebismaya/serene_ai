@@ -6,4 +6,3 @@ textblob
 flask
 pinecone-client
 sentence-transformers
-sqlite3

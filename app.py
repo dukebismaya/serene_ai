@@ -2,7 +2,6 @@ import os
 import requests
 import threading
 import random
-import sqlite3
 import streamlit as st
 import pyttsx3
 import speech_recognition as sr
